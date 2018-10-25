@@ -3,7 +3,8 @@ import unittest
 from functions import *
 
 class TestFunctions(unittest.TestCase):
-    """ Test add_values
+    """ 
+    """ Test add_values (add new comment)
     """
     def setUp(self):
         self.value1 = 10
